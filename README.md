@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JorritvdP, living in Madrid, Spain.
 - 👀 I’m interested in sport science, football, cycling, running, triathlon and of course web development.
-- 🌱 I’m currently learning TDD with Mocha and improving my JS fluency.
+- 🌱 I’m currently learning Ruby and improving my JS fluency.
 - 📫 How to reach me: <a href='mailto:jvdplaats@hotmail.com'>Email</a>
 
 <!---
