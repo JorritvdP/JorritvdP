@@ -5,7 +5,7 @@
 ### <div align="center">I'm Jorrit, an aspiring full stack web developer. 👨‍💻  Changing career and excited to start this new adventure. 🚀</div>  
 - 🔭 I’m currently working on building my first full web application as part of a 9 week LeWagon bootcamp  
 - 🌱 I’m currently learning Ruby on Rails, JavaScript, HTML, CSS, Bootstrap  
-- ⚡ Fun fact: My lunch is a cheese sandwich on most days  
+- ⚡ Fun fact: On most days my lunch is a cheese sandwich  
 <br/>  
 
 
@@ -45,7 +45,7 @@
 <br/>  
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://github.com/JorritvdP" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
